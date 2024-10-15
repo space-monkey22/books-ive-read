@@ -10,8 +10,8 @@ A simple web application for managing a reading list using Flask for the backend
 - Responsive design for a great user experience
 ## 🎨 Screenshots
 
-### Main Screen
-![Main Screen](./assets/a_screenshot.png)
+### Data on the api
+![data on the api](src/assets/a%20screenshot.png)
 ## 📦 Technologies Used
 
 - **Frontend**: React
