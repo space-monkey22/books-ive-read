@@ -11,7 +11,7 @@ A simple web application for managing a reading list using Flask for the backend
 ## 🎨 Screenshots
 
 ### Main Screen
-![Main Screen](./assets/a screenshot.png)
+![Main Screen](./assets/ascreenshot.png)
 ## 📦 Technologies Used
 
 - **Frontend**: React
