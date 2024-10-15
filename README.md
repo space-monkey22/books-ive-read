@@ -1,4 +1,4 @@
-# 📚 Reading List App
+# 📚 Books i've read- yeah, just that
 
 A simple web application for managing a reading list using Flask for the backend API and React for the frontend. Users can add, view, and delete books they've read.
 
